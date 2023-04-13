@@ -1,0 +1,27 @@
+    sources:
+      - DarkerGrotesque.glyphs
+    axisOrder:
+      - wght
+    familyName: "Darker Grotesque"
+    stat:
+      DarkerGrotesque[wght].ttf:
+      - name: Weight
+        tag: wght
+        values:
+        - name: Light
+          value: 300
+        - name: Regular
+          value: 400
+          linkedValue: 700
+          flags: 2
+        - name: Medium
+          value: 500
+        - name: SemiBold
+          value: 600
+        - name: Bold
+          value: 700
+        - name: ExtraBold
+          value: 800
+        - name: Black
+          value: 900
+          
